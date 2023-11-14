@@ -1,8 +1,8 @@
 # ------------------------------------------------------------------------------------------ #
-# Title: Assignment04
+# Title: Assignment05
 # Desc: This assignment demonstrates using list and files
 # Change Log: (Who, When, What)
-#   Zach Harvey,11.6.2023,Created Script
+#   Zach Harvey,11.13.2023,Created Script
 # ------------------------------------------------------------------------------------------ #
 import json
 import os
